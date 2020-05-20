@@ -7,7 +7,7 @@ of patient to see who should be serviced first. Heaps are useful for this
 because it compares a certain trait such as priority to see who is first in
 the list.
 
-3. Features: In the Heap class, there are methods that arranges based on 
+Features: In the Heap class, there are methods that arranges based on 
 heap rules, get the root, remove root from heap, increase priority, add
 nodes into the heap, get number of nodes in heap. StringHeap class
 has similar functionalities but its based on organizing strings and cannot
